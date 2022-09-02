@@ -43,4 +43,4 @@ Distributed under the **The MIT License (MIT)** license. See ``LICENSE`` for mor
 [swift-image]: https://img.shields.io/badge/swift-5-orange.svg
 [swift-url]: https://swift.org/
 [license-image]: https://img.shields.io/badge/License-MIT-blue.svg
-[license-url]: https://www.connect.social/
+[license-url]: https://www.dhani.com/
